@@ -1,15 +1,28 @@
 {
- "users":
- [
-  {
-    "id": "1",
-    "name": "John",
-    "age": "18"
-   },
-   {
-    "id":"2",
-    "name":"heat",
-    "age":"24",
-   },
- ]
+  "stores": [
+    {
+      "id": "111",
+      "title": "Bia hoi Hai Xom 2",
+      "address": "...",
+      "phone": "...",
+      "logo:": "...",
+      "status": "Close"
+    },
+    {
+      "id": "113",
+      "title": "Bia hoi Hai Xom 3",
+      "address": "...",
+      "phone": "...",
+      "logo:": "...",
+      "status": "Close"
+    },
+    {
+      "title": "2",
+      "address": "1",
+      "phone": "11",
+      "logo": "1",
+      "status": "1",
+      "id": "lsLgMdJ"
+    }
+  ]
 }
