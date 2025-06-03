@@ -1,14 +1,6 @@
 # 👋 Hi there, I'm RinhXe!
 
-Welcome to my GitHub profile. I'm a developer passionate about building applications that connect people and simplify everyday life. 💡
-
----
-
-## 🚀 Featured Projects
-
-- 🛺 **RinhXe App** – A simple and fast ride-hailing app (Godot/Flutter)
-- 🧩 **GDShaderTools** – Utilities for writing shaders in Godot 4
-- 🔒 **SimpleAuthAPI** – Lightweight authentication API for easy integration across platforms
+Welcome to my GitHub profile! I'm a passionate developer who loves building applications that make everyday life easier and more connected. 💡
 
 ---
 
@@ -20,7 +12,7 @@ Welcome to my GitHub profile. I'm a developer passionate about building applicat
 - Flutter + Dart 📱  
 - TypeScript / Node.js 🧠  
 - Databases: PostgreSQL, MongoDB 🗃️  
-- CI/CD with GitHub Actions 🔁
+- CI/CD with GitHub Actions 🔁  
 
 ---
 
@@ -28,7 +20,7 @@ Welcome to my GitHub profile. I'm a developer passionate about building applicat
 
 ![RinhXe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinhxe&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rinhxe&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinhxe&layout=compact&theme=radical)
 
 ---
 
@@ -38,12 +30,12 @@ Welcome to my GitHub profile. I'm a developer passionate about building applicat
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with me
 
 - 🌐 Website: [rinhxe.dev](https://rinhxe.dev)  
 - 💼 LinkedIn: [linkedin.com/in/rinhxe](https://linkedin.com/in/rinhxe)  
-- 🐦 Twitter: [@rinhxe_dev](https://twitter.com/rinhxe_dev)
+- 🐦 Twitter: [@rinhxe_dev](https://twitter.com/rinhxe_dev)  
 
 ---
 
-> **"It's not just code – it's about building solutions."**
+> **"It's not just code – it's the solution."**
