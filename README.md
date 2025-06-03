@@ -1,43 +1,50 @@
-# 🛺 RinhXe
+# 👋 Xin chào, mình là RinhXe!
 
-**RinhXe** là một ứng dụng đặt xe đơn giản, nhanh chóng, và thân thiện với người dùng, giúp kết nối tài xế và khách hàng tại Việt Nam.
-
----
-
-## 🚀 Tính năng chính
-
-- 📍 Định vị vị trí theo thời gian thực
-- 📱 Giao diện người dùng thân thiện trên Android/iOS
-- 🚘 Tài xế xác nhận chuyến đi tức thì
-- 💬 Chat giữa tài xế và khách hàng
-- 💳 Thanh toán qua tiền mặt hoặc ví điện tử
-- 📊 Dashboard thống kê cho quản trị viên
+Chào mừng bạn đến với trang GitHub của mình. Mình là một lập trình viên đam mê phát triển ứng dụng, đặc biệt yêu thích những sản phẩm giúp kết nối con người và cuộc sống dễ dàng hơn. 💡
 
 ---
 
-## 📸 Ảnh minh họa
+## 🚀 Dự án nổi bật
 
-![UI Screenshot](https://your-link.com/screenshot.png) <!-- Thay bằng ảnh thật nếu có -->
-
----
-
-## 🛠️ Công nghệ sử dụng
-
-| Thành phần        | Công nghệ           |
-|-------------------|---------------------|
-| Backend           | Node.js + Express   |
-| Cơ sở dữ liệu     | MongoDB / PostgreSQL|
-| Mobile App        | Flutter             |
-| Realtime Tracking | Firebase / Socket.IO|
-| Maps              | Google Maps SDK     |
+- 🛺 **RinhXe App** – Ứng dụng gọi xe đơn giản và nhanh gọn (Godot/Flutter)
+- 🧩 **GDShaderTools** – Bộ công cụ hỗ trợ viết shader cho Godot 4
+- 🔒 **SimpleAuthAPI** – API xác thực nhẹ, dễ tích hợp với bất kỳ nền tảng nào
 
 ---
 
-## 🧪 Cài đặt dự án
+## 🔧 Kỹ năng & Công nghệ
 
-### Backend
+![Tech Stack](https://skillicons.dev/icons?i=godot,flutter,dart,ts,nodejs,mongodb,postgres,git,linux)
 
-```bash
-cd backend
-npm install
-npm run dev
+- Godot Engine (4.x) 🎮
+- Flutter + Dart 📱
+- TypeScript / Node.js 🧠
+- Cơ sở dữ liệu: PostgreSQL, MongoDB 🗃️
+- CI/CD với GitHub Actions 🔁
+
+---
+
+## 📊 Thống kê GitHub
+
+![RinhXe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinhxe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinhxe&layout=compact&theme=radical)
+
+---
+
+## 🏆 Thành tựu
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rinhxe&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📫 Kết nối với mình
+
+- 🌐 Website cá nhân: [rinhxe.dev](https://rinhxe.dev)
+- 💼 LinkedIn: [linkedin.com/in/rinhxe](https://linkedin.com/in/rinhxe)
+- 🐦 Twitter: [@rinhxe_dev](https://twitter.com/rinhxe_dev)
+
+---
+
+> **"Không chỉ là code – mà là giải pháp."**
+
