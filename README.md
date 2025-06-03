@@ -6,10 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building appl
 
 ## 🔧 Skills & Technologies
 
-![Tech Stack](https://skillicons.dev/icons?i=godot,flutter,dart,ts,nodejs,mongodb,postgres,git,linux)
+![Tech Stack](https://skillicons.dev/icons?i=godot,flutter,dart,kotlin,java,ts,nodejs,firebase,unity,mongodb,postgres,git,linux)
 
 - Godot Engine (4.x) 🎮  
+- Unity (C#) 🕹️  
 - Flutter + Dart 📱  
+- Kotlin & Java (Android development) 📱  
+- Firebase (Auth, Firestore, FCM, Realtime DB) ☁️  
 - TypeScript / Node.js 🧠  
 - Databases: PostgreSQL, MongoDB 🗃️  
 - CI/CD with GitHub Actions 🔁  
