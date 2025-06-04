@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building appl
 
 - 🌐 Website: [rinhxe.dev](https://rinhxe.dev)  
 - 💼 LinkedIn: [linkedin.com/in/rinhxe](https://linkedin.com/in/rinhxe)  
-- 🐦 Twitter: [@rinhxe_dev](https://twitter.com/rinhxe_dev)  
+- 🐦 Twitter: [@rinhxe_dev](https://twitter.com/daRinxxe)  
 
 ---
 
