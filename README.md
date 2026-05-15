@@ -17,20 +17,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building appl
 
 ---
 
-## 📊 GitHub Stats
-
-![RinhXe's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinhxe&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinhxe&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rinhxe&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📫 Connect with me
 
 - 🌐 Website: [rinhxe.dev](https://rinhxe.dev)  
