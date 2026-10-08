@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building appl
 
 ## 📫 Connect with me
 
-- 🌐 Website: [rinhxe.cloud](https://rinhxe.cloud)  
+- 🌐 Website: [rinxe.cloud](https://rinxe.cloud)  
 - 💼 LinkedIn: [linkedin.com/in/rinhxe](https://linkedin.com/in/rinhxe)  
 - 🐦 Twitter: [@daRinxxe](https://twitter.com/daRinxxe)  
 
