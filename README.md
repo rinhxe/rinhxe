@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm RinhXe!
+# 👋 Hi there, I'm RinXe!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building applications that make everyday life easier and more connected. 💡
 
